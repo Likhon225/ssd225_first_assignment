@@ -1,0 +1,42 @@
+body{
+    width: 80%;
+    margin: 0;
+    background: #5D5F60;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content{
+    background: #736e6b;
+    margin-top: 75px;
+    padding: 37px;
+    box-shadow: 0px 0px 21px #262626;
+    text-align: center;
+    text-align: justify;
+    border-radius: 7px;
+}
+h2{
+    
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+}
+.H{
+    color: #15d8f7fc;
+}
+.L{
+    color: aqua;
+}
+p{
+    color: white;
+    font-size: 26px;
+    line-height: 1.2;
+}
+.forimg{
+    width: 600px;
+    
+}
+img{
+    width: 600px;
+}
